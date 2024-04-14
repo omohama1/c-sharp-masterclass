@@ -1,0 +1,14 @@
+\\VESELY_KOMPUTER\Users\omarb\Desktop\Udemy\CSharpMasterclass_Projects\TodoList\TodoList\bin\Debug\net8.0\TodoList.exe
+\\VESELY_KOMPUTER\Users\omarb\Desktop\Udemy\CSharpMasterclass_Projects\TodoList\TodoList\bin\Debug\net8.0\TodoList.deps.json
+\\VESELY_KOMPUTER\Users\omarb\Desktop\Udemy\CSharpMasterclass_Projects\TodoList\TodoList\bin\Debug\net8.0\TodoList.runtimeconfig.json
+\\VESELY_KOMPUTER\Users\omarb\Desktop\Udemy\CSharpMasterclass_Projects\TodoList\TodoList\bin\Debug\net8.0\TodoList.dll
+\\VESELY_KOMPUTER\Users\omarb\Desktop\Udemy\CSharpMasterclass_Projects\TodoList\TodoList\bin\Debug\net8.0\TodoList.pdb
+\\VESELY_KOMPUTER\Users\omarb\Desktop\Udemy\CSharpMasterclass_Projects\TodoList\TodoList\obj\Debug\net8.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+\\VESELY_KOMPUTER\Users\omarb\Desktop\Udemy\CSharpMasterclass_Projects\TodoList\TodoList\obj\Debug\net8.0\TodoList.AssemblyInfoInputs.cache
+\\VESELY_KOMPUTER\Users\omarb\Desktop\Udemy\CSharpMasterclass_Projects\TodoList\TodoList\obj\Debug\net8.0\TodoList.AssemblyInfo.cs
+\\VESELY_KOMPUTER\Users\omarb\Desktop\Udemy\CSharpMasterclass_Projects\TodoList\TodoList\obj\Debug\net8.0\TodoList.csproj.CoreCompileInputs.cache
+\\VESELY_KOMPUTER\Users\omarb\Desktop\Udemy\CSharpMasterclass_Projects\TodoList\TodoList\obj\Debug\net8.0\TodoList.dll
+\\VESELY_KOMPUTER\Users\omarb\Desktop\Udemy\CSharpMasterclass_Projects\TodoList\TodoList\obj\Debug\net8.0\refint\TodoList.dll
+\\VESELY_KOMPUTER\Users\omarb\Desktop\Udemy\CSharpMasterclass_Projects\TodoList\TodoList\obj\Debug\net8.0\TodoList.pdb
+\\VESELY_KOMPUTER\Users\omarb\Desktop\Udemy\CSharpMasterclass_Projects\TodoList\TodoList\obj\Debug\net8.0\TodoList.genruntimeconfig.cache
+\\VESELY_KOMPUTER\Users\omarb\Desktop\Udemy\CSharpMasterclass_Projects\TodoList\TodoList\obj\Debug\net8.0\ref\TodoList.dll
